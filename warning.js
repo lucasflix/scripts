@@ -48,7 +48,7 @@ function anchorString(input) {
 
         let secondaryText = document.createElement('div');
         secondaryText.innerHTML = 'Assinantes  de qualquer valor podem vincular sua conta do Letterboxd com o Lucasflix e ter todos os filmes da sua watchlist adicionados' +
-            'automaticamente, além de poderem pedir séries com mais de 2 temporadas (séries muito grandes custam muito para serem armazenadas).';
+            ' automaticamente, além de poderem pedir séries com mais de 2 temporadas (séries muito grandes custam muito para serem armazenadas).';
         secondaryText.style.fontSize = '0.8em';
         secondaryText.style.width = '100%';
         secondaryText.style.textAlign = 'center';
